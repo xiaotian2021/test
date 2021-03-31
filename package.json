@@ -1,0 +1,8 @@
+{
+  "name": "{{name}}",
+  "version": "1.0.0",
+  "description": {{description}},
+  "lockfileVersion": 1,
+  "requires": true,
+  "author": {{author}}
+}
